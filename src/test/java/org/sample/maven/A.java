@@ -21,7 +21,10 @@ public class A {
 		Row r=s.getRow(1);
 		Cell c=r.getCell(1);
 		System.out.println(c);	
+		System.out.println();
 		
+		System.out.println();
+		System.out.println();
 		
 		
 	}
